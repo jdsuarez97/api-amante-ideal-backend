@@ -1,7 +1,7 @@
 # API Amante Ideal - Backend
 
 Daniela Suarez Quiros
-Victoria Molina Martinez
+- Victoria Molina Martinez
 
 ## Descripción general
 

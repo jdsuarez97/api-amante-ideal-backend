@@ -1,5 +1,8 @@
 # API Amante Ideal - Backend
 
+#Daniela Suarez Quiros
+#Victoria Molina Martinez
+
 ## Descripción general
 
 Este repositorio contiene el backend de una aplicación simple para registrar perfiles de posibles amantes y consultar candidatos según un interés específico.
